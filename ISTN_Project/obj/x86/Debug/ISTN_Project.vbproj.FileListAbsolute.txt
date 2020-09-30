@@ -1,0 +1,174 @@
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\bin\Debug\ISTN_Project.exe
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\bin\Debug\ISTN_Project.pdb
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\bin\Debug\ISTN_Project.xml
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.AddEmployee.resources
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.AddLCust.resources
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.AddProduct.resources
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.EditEmployee.resources
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.EditLCust.resources
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.EditProduct.resources
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.Employees.resources
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.Login.resources
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.LoyaltyCustomers.resources
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.Resources.resources
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.NewSale.resources
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.Products.resources
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.Register.resources
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.Reports.resources
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.vbproj.GenerateResource.Cache
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.exe
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.xml
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.pdb
+C:\Users\Bibi Ayesha\documents\visual studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.IntroScreen.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.exe
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.xml
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.pdb
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\bin\Debug\ISTN_Project.exe
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\bin\Debug\ISTN_Project.pdb
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\bin\Debug\ISTN_Project.xml
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.AddEmployee.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.AddLCust.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.AddProduct.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.EditEmployee.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.EditLCust.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.EditProduct.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.Employees.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.IntroScreen.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.Login.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.LoyaltyCustomers.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.Resources.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.NewSale.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.Products.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.Register.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\ISTN_Project.Reports.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project\ISTN_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.exe
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.xml
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.pdb
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\bin\Debug\ISTN_Project.exe
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\bin\Debug\ISTN_Project.pdb
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\bin\Debug\ISTN_Project.xml
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.AddEmployee.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.AddLCust.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.AddProduct.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.EditEmployee.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.EditLCust.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.EditProduct.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Employees.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.IntroScreen.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Login.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.LoyaltyCustomers.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Resources.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.NewSale.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Products.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Register.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Reports.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.vbproj.GenerateResource.Cache
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.xml
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.pdb
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\bin\Debug\ISTN_Project.exe
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\bin\Debug\ISTN_Project.pdb
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\bin\Debug\ISTN_Project.xml
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.AddEmployee.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.AddLCust.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.AddProduct.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.EditEmployee.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.EditLCust.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.EditProduct.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Employees.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.IntroScreen.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Login.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.LoyaltyCustomers.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Resources.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.NewSale.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Products.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Register.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Reports.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.exe
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\bin\Debug\ISTN_Project.exe.config
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.MainMenu.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.PassChange.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\bin\Debug\ISTN_Project.exe.config
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.exe
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.xml
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.pdb
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\bin\Debug\ISTN_Project.exe
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\bin\Debug\ISTN_Project.pdb
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\bin\Debug\ISTN_Project.xml
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.AddEmployee.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.AddLCust.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.AddProduct.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.EditEmployee.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.EditLCust.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.EditProduct.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Employees.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.IntroScreen.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Login.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.LoyaltyCustomers.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.MainMenu.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Resources.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.NewSale.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.PassChange.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Products.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Register.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Reports.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.vbproj.GenerateResource.Cache
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\bin\Debug\ISTN_Project.exe.config
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.exe
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.xml
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.pdb
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\bin\Debug\ISTN_Project.exe
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\bin\Debug\ISTN_Project.pdb
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\bin\Debug\ISTN_Project.xml
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.AddEmployee.resources
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.AddLCust.resources
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.AddProduct.resources
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.EditEmployee.resources
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.EditLCust.resources
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.EditProduct.resources
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Employees.resources
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.IntroScreen.resources
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Login.resources
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.LoyaltyCustomers.resources
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.MainMenu.resources
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Resources.resources
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.NewSale.resources
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.PassChange.resources
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Products.resources
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Register.resources
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Reports.resources
+H:\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.vbproj.GenerateResource.Cache
+E:\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\bin\Debug\ISTN_Project.exe.config
+E:\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.exe
+E:\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.xml
+E:\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.pdb
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\bin\Debug\ISTN_Project.exe.config
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.exe
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.xml
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.pdb
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.AddEmployee.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.AddLCust.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.AddProduct.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.EditEmployee.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.EditLCust.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.EditProduct.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Employees.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.IntroScreen.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Login.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.LoyaltyCustomers.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.MainMenu.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Resources.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.NewSale.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.PassChange.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Products.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Register.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.Reports.resources
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\obj\x86\Debug\ISTN_Project.vbproj.GenerateResource.Cache
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\bin\Debug\ISTN_Project.exe
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\bin\Debug\ISTN_Project.pdb
+C:\Users\Bibi Ayesha\Documents\Visual Studio 2010\Projects\ISTN FINAL 2\ISTN FINAL\ISTN_Project_new\ISTN_Project\bin\Debug\ISTN_Project.xml

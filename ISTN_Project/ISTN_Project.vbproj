@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8202F09D-BF79-40E1-B81D-A5BB58B83AD8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ISTN_Project.My.MyApplication</StartupObject>
+    <RootNamespace>ISTN_Project</RootNamespace>
+    <AssemblyName>ISTN_Project</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ISTN_Project.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ISTN_Project.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddEmployee.Designer.vb">
+      <DependentUpon>AddEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddLCust.Designer.vb">
+      <DependentUpon>AddLCust.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddLCust.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddProduct.Designer.vb">
+      <DependentUpon>AddProduct.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddProduct.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataBaseControl.vb" />
+    <Compile Include="EditEmployee.Designer.vb">
+      <DependentUpon>EditEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditLCust.Designer.vb">
+      <DependentUpon>EditLCust.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditLCust.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditProduct.Designer.vb">
+      <DependentUpon>EditProduct.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditProduct.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees.Designer.vb">
+      <DependentUpon>Employees.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Employees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IntroScreen.Designer.vb">
+      <DependentUpon>IntroScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IntroScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ist2ggDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ist2ggDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoyaltyCustomers.Designer.vb">
+      <DependentUpon>LoyaltyCustomers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoyaltyCustomers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.vb">
+      <DependentUpon>MainMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NewSale.Designer.vb">
+      <DependentUpon>NewSale.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NewSale.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PassChange.Designer.vb">
+      <DependentUpon>PassChange.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PassChange.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products.Designer.vb">
+      <DependentUpon>Products.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Products.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.vb">
+      <DependentUpon>Register.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Register.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports.Designer.vb">
+      <DependentUpon>Reports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AddEmployee.resx">
+      <DependentUpon>AddEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddLCust.resx">
+      <DependentUpon>AddLCust.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddProduct.resx">
+      <DependentUpon>AddProduct.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditEmployee.resx">
+      <DependentUpon>EditEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditLCust.resx">
+      <DependentUpon>EditLCust.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditProduct.resx">
+      <DependentUpon>EditProduct.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees.resx">
+      <DependentUpon>Employees.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IntroScreen.resx">
+      <DependentUpon>IntroScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoyaltyCustomers.resx">
+      <DependentUpon>LoyaltyCustomers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewSale.resx">
+      <DependentUpon>NewSale.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PassChange.resx">
+      <DependentUpon>PassChange.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products.resx">
+      <DependentUpon>Products.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports.resx">
+      <DependentUpon>Reports.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="ist2ggDataSet.xsc">
+      <DependentUpon>ist2ggDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ist2ggDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ist2ggDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ist2ggDataSet.xss">
+      <DependentUpon>ist2ggDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoAngryNerds.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
